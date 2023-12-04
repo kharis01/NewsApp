@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="content_imagenews">image news</string>
+    <string name="getting_news">Getting News</string>
+    <string name="content_image_view_headline">Image News Headline</string>
+    <string name="option_search">Search</string>
+    <string name="search_hint">Silahkan cari berita</string>
+    <string name="news_detail">News Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
